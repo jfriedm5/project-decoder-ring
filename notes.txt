@@ -1,0 +1,25 @@
+
+   /*const alphabet = "abcdefghijklmnopqrstuvwxyz"
+   let newalpha = "";
+    for (let i=0; i<alphabet.length;i++){
+    let offset = (i + shift)% alphabet.length;
+        newalpha += alphabet[offset];
+      }
+if(encode===true){      
+let result = "";
+input = input.toLowerCase();
+for(let i=0;i<input.length; i++){
+  let index = alphabet.indexOf(input[i]);
+  result += newalpha[index];
+   }
+} else{
+  let result = "";
+  input= input.toLowerCase();
+  for(let i=0; i<input.length;i++){
+    let index= newalpha.indexOf(input[i]);
+    result += alphabet[index];
+  }
+}
+ return result;   
+
+*/
